@@ -1,0 +1,193 @@
+.noi-dung-anh-bia {
+    position: relative;
+    width: 100%;
+    height: 400px;
+}
+
+.anh-bia {
+    position: absolute;
+    width: 70%;
+    left: 15%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.tieu-de {
+    position: absolute;
+    top: 85%;
+    right: 16%;
+    color: black;
+    height: 30px;
+    background: white;
+    display: flex;
+    align-items: center;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+.anh-camera {
+    height: 20px;
+    margin-right: 10px;
+}
+
+.avatar {
+    width: 70%;
+    margin-left: 15%;
+    height: 200px;
+    margin-top: 10px;
+    display: flex;
+}
+
+.avatar-img {
+    width: 20%;
+    margin-left: 4%;
+    position: relative;
+}
+
+.anh-avatar {
+    border-radius: 50%;
+   
+}
+
+
+.bao-anh {
+    position: absolute;
+    top: 60%;
+    right: 7%;
+    height: 45px;
+    width: 45px;
+    background-color: #e4e6eb;
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.anh-camera-avatar {
+    height: 20px;
+   
+  
+}
+
+.ten {
+    width: 30%;
+    height: 100%;
+    text-align: left;
+    margin-top: 4%;
+    margin-left: 20px;
+
+}
+
+.ho-ten {
+    font-weight: 800;
+    font-size: 32px;
+   
+}
+
+.ban-be {
+    font-size: 19px;
+    font-weight: 500;
+    color: #65676b;
+    margin-top: 10px;
+}
+
+.hinh-sua-trang-ca-nhan {
+    width: 50%;
+}
+
+.anh {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.anh-ban-be {
+    position: relative;
+}
+
+.anh1 {
+    position: absolute;
+    z-index: 10;
+}
+
+.anh2 {
+    position: absolute;
+    top: 0;
+    left: 10%;
+    z-index: 9;
+}
+
+.anh3 {
+    position: absolute;
+    top: 0;
+    left: 20%;
+    z-index: 8;
+}
+
+.anh4 {
+    position: absolute;
+    top: 0;
+    left: 30%;
+    z-index: 7;
+}
+
+.anh5 {
+    position: absolute;
+    top: 0;
+    left: 40%;
+    z-index: 6;
+}
+
+.anh6 {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    z-index: 5;
+}
+
+.dau-cong {
+    height: 20px;
+    position:absolute;
+}
+
+.cai-but {
+    height: 20px;
+}
+
+.chinh-sua-trang-ca-nhan {
+    width: 40%;
+    display: flex;
+    display: flex;
+    position: relative;
+    margin-top: 10%;
+    margin-left: 10%;
+    gap: 10px;
+}
+
+.tin {
+    height: 40px;
+    background-color: #1b74e4;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
+
+.chinh-sua {
+    height: 40px;
+    background-color: #e4e6eb;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 600;
+}
